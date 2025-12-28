@@ -3,25 +3,66 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+engineer;Building+production-ready+systems&size=24&duration=1500&pause=1000&font=Outfit&weight=300)](https://git.io/typing-svg)
 
-- 🔭 I'm currently working on **Designing and shipping full‑stack applications with real users—focusing on clean architecture, reliable APIs, and end‑to‑end delivery (Next.js, TypeScript, Python, Go).**
+### What I build
 
-- 🌱 I'm currently learning **Distributed systems fundamentals, advanced Go concurrency patterns, and modern AI workflows (RAG, vector databases).**
+I design and ship **production-ready full-stack systems** with clear architecture, reliable APIs, and automated delivery. I focus on backend-leaning full-stack work where correctness, scalability, and maintainability matter more than UI polish.
 
-- 👯 I'm looking to collaborate on **Well‑scoped open‑source projects involving full‑stack systems, developer tooling, or applied AI.**
+## Core strengths
 
-- 🤝 I'm looking for help with **Deepening system design skills—scalability, reliability, and production trade‑offs.**
+* **Backend & APIs**: REST services with TypeScript, Node.js, Go, and Python. Auth, pagination, background jobs, error handling, and observability.
+* **System design**: Service boundaries, data ownership, trade-offs between simplicity and scale.
+* **DevOps & delivery**: Docker-first development, CI/CD pipelines, environment separation, and cloud deployments.
+* **Data**: PostgreSQL-first. Schema design, migrations, indexing, and performance basics.
+* **Security & reliability**: TLS fundamentals, secrets management, and defensive programming.
 
-- 💬 Ask me about **Full‑stack development, CI/CD & DevOps, building production‑ready apps, and turning ideas into shipped systems.**
+### Tech I use in production
 
-- 📫 How to reach me **clupaio4@gmail.com**
+**Primary**
 
-- ⚡ Fun fact **I enjoy turning complex systems into simple, usable products.**
+* TypeScript, Node.js, Next.js
+* PostgreSQL, Redis
+* Docker, GitHub Actions
+* AWS, Vercel
 
-- 👨‍💻 All of my projects are available at **[https://clupai.com/](https://clupai.com/)**
+**Secondary**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1c4itep5wTrMXGW3a2bgLGB1IrZypeUA3/view?usp=sharing)**
+* Go for concurrency-heavy services
+* Python for data pipelines and automation
+
+### Flagship projects
+
+> End-to-end systems built with real constraints. Selected to demonstrate backend depth, delivery, and system thinking.
+
+#### [Notes App with CI/CD](https://github.com/Clupai8o0/notes-app)
+Production-style full-stack system with authentication, role-based access, and observability. Designed, containerized, tested, and deployed via an automated CI/CD pipeline.
+**Signal:** real delivery, not toy CRUD.
+
+#### [Concurrent Load Balancer (Go)](https://github.com/Clupai8o0/load-balancer)
+Latency-aware HTTP load balancer implementing adaptive concurrency control, health checks, and fault tolerance. Built to study real trade-offs in throughput, tail latency, and resilience.
+Signal: systems thinking, concurrency, and performance under load.
+
+#### [Applied AI & Platform Work (GovChat)](https://github.com/Shalok-sys/GovChat)
+Full-stack platform for exploring Australian open data using retrieval-augmented generation, vector search, and auditable responses. Includes a clean API boundary and production-style frontend integration.
+**Signal:** applied AI with backend rigor, not just prompt demos.
+
+#### [Production Web Platforms (Next.js)](https://clupai.com)
+Data-driven, SEO-aware web platforms with clean API contracts, CMS integration, and real users. Focus on maintainability, content pipelines, and deployment under deadlines.
+**Signal:** frontend used as part of a system, not isolated UI work.
+
+### What I’m looking for
+
+* Software Engineer Intern
+* Graduate Software Engineer
+* Backend / platform-leaning roles
+
+Interested in teams shipping real systems and valuing engineering fundamentals.
 
 <h3 align="left">Connect with me:</h3>
+
+- How to reach out me **clupaio4@gmail.com**
+- Portfolio Website: **[https://clupai.com/](https://clupai.com/)**
+- Here's my resume: **[Resume](https://drive.google.com/file/d/1c4itep5wTrMXGW3a2bgLGB1IrZypeUA3/view?usp=sharing)**
+
 <p align="left">
 <a href="https://github.com/Clupai8o0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Clupai8o0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samridh-limbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samridh-limbu" height="30" width="40" /></a>
@@ -42,4 +83,3 @@
 </a>
 
 
-[![GitHub Streak](https://clupai-github-readme-streak-stats.vercel.app?user=Clupai8o0&theme=transparent)](https://git.io/streak-stats)
