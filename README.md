@@ -1,7 +1,7 @@
 ![Tech banner with text "From Idea To Production"](/banner.png)
 # Hi 👋, I'm Samridh Limbu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+engineer;Building+production-ready+systems&center=true&duration=1500&pause=1000&font=Outfit&weight=300)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+engineer;Building+production-ready+systems&size=24&duration=1500&pause=1000&font=Outfit&weight=300)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Clupai8o0&label=Profile views&color=0e75b6&style=flat" alt="Clupai8o0" /> </p>
 
