@@ -17,7 +17,7 @@ Chat card: the YOU / CLAUDE exchange from the landing page's Connected section, 
   as on GovChat beside it. The gap is chosen so both plates are the same height and both chat pieces end on one line.
 Caption: Manrope + Inter (Sam's type). Facts from _drafts/facts.md: Claude or ChatGPT can read and log workouts, 70 API tests.
 -->
-<title id="t">Tempo, a workout log your AI can read</title><desc id="d">Tempo’s volume panel: 140 sets, 1,040 reps and 71,605 kg, then eight movements ranked by sets in orange bars, from bench press at 24 sets to Romanian deadlift at 12.</desc>
+<title id="t">Tempo, a workout log your AI can read</title><desc id="d">Tempo’s volume panel on sample data: 140 sets, 1,040 reps and 71,605 kg, then eight movements ranked by sets in orange bars, from bench press at 24 sets to Romanian deadlift at 12. Below it, the landing page’s sample chat, where Claude answers what was benched last Tuesday and whether it was a record.</desc>
 <defs><clipPath id="frame"><rect width="840" height="1405" rx="24"/></clipPath><filter id="lift" filterUnits="userSpaceOnUse" x="-400" y="-400" width="2400" height="2400" color-interpolation-filters="sRGB"><feDropShadow dx="0.7" dy="1.9" stdDeviation="3.1" flood-color="#000000" flood-opacity="0.540"/><feDropShadow dx="2.9" dy="16" stdDeviation="26" flood-color="#000000" flood-opacity="0.600"/></filter></defs>
 <g clip-path="url(#frame)">
 <rect x="0.0" y="0.0" width="840.0" height="1405.0" rx="0.0" fill="#0a0a0a"/>

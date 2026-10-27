@@ -19,7 +19,7 @@
 
 <p>
 <a href="https://govchat-desc.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/govchat-dark.svg"><img alt="GovChat, winner of GovHack 2025, live at govchat-desc.vercel.app. Its Trust panel shows a sample answer scored 92 out of 100, High Trust, broken into five factors from grounding to data recency, for a question like: which datasets track population growth in Victoria? Plain-English answers on Australian government datasets. Next.js, FastAPI, ChromaDB." src="./assets/govchat-light.svg" width="420"></picture></a>
-<a href="https://tempo.clupai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tempo-dark.svg"><img alt="Tempo, live at tempo.clupai.com. Its volume panel: 140 sets, 1,040 reps and 71,605 kg, with eight lifts ranked by sets in orange bars, and the landing page's sample chat, where Claude answers what was benched last Tuesday and whether it was a record. Claude or ChatGPT can read and log your workouts through an OAuth MCP server. One FastAPI service, 70 API tests." src="./assets/tempo-light.svg" width="420"></picture></a>
+<a href="https://tempo.clupai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tempo-dark.svg"><img alt="Tempo, live at tempo.clupai.com. Its volume panel on sample data: 140 sets, 1,040 reps and 71,605 kg, with eight lifts ranked by sets in orange bars, and the landing page's sample chat, where Claude answers what was benched last Tuesday and whether it was a record. Claude or ChatGPT can read and log your workouts through an OAuth MCP server. One FastAPI service, 70 API tests." src="./assets/tempo-light.svg" width="420"></picture></a>
 </p>
 
 <p>
