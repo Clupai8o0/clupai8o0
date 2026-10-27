@@ -1,87 +1,27 @@
-![Tech banner with text "From Idea To Production"](/banner.png)
-
-# Hi 👋, I'm Samridh Limbu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+engineer;Building+production-ready+systems&size=24&duration=1500&pause=1000&font=Outfit&weight=300)](https://git.io/typing-svg)
-
-### What I build
-
-I design and ship **production-ready full-stack systems** with clear architecture, reliable APIs, and automated delivery. I focus on backend-leaning full-stack work where correctness, scalability, and maintainability matter more than UI polish.
-
-### Core strengths
-
-- **Backend & APIs**: REST services with TypeScript, Node.js, Go, and Python. Auth, pagination, background jobs, error handling, and observability.
-- **System design**: Service boundaries, data ownership, trade-offs between simplicity and scale.
-- **DevOps & delivery**: Docker-first development, CI/CD pipelines, environment separation, and cloud deployments.
-- **Data**: PostgreSQL-first. Schema design, migrations, indexing, and performance basics.
-- **Security & reliability**: TLS fundamentals, secrets management, and defensive programming.
-
-Tech stack focused on TypeScript, Go, cloud infrastructure, and production delivery.
-
-
-### Flagship projects
-
-> End-to-end systems built with real constraints. Selected to demonstrate backend depth, delivery, and system thinking.
-
-#### [Notes App with CI/CD](https://github.com/Clupai8o0/notes-app)
-
-Production-style full-stack system with authentication, role-based access, and observability. Designed, containerized, tested, and deployed via an automated CI/CD pipeline.
-**Signal:** real delivery, not toy CRUD.
-
-#### [Concurrent Load Balancer (Go)](https://github.com/Clupai8o0/load-balancer)
-
-Latency-aware HTTP load balancer implementing adaptive concurrency control, health checks, and fault tolerance. Built to study real trade-offs in throughput, tail latency, and resilience.
-**Signal:** systems thinking, concurrency, and performance under load.
-
-#### [Applied AI & Platform Work (GovChat)](https://github.com/Shalok-sys/GovChat)
-
-Full-stack platform for exploring Australian open data using retrieval-augmented generation, vector search, and auditable responses. Includes a clean API boundary and production-style frontend integration.
-**Signal:** applied AI with backend rigor, not just prompt demos.
-
-#### [Production Web Platforms (Next.js)](https://clupai.com)
-
-Data-driven, SEO-aware web platforms with clean API contracts, CMS integration, and real users. Focus on maintainability, content pipelines, and deployment under deadlines.
-**Signal:** frontend used as part of a system, not isolated UI work.
-
-### Roles I'm Targeting
-
-- Software Engineer Intern
-- Graduate Software Engineer
-- Backend / platform-leaning roles
-
-Interested in teams shipping real systems and valuing engineering fundamentals.
-
-<h3 align="left">Connect with me:</h3>
-
-- How to reach me: **clupaio4@gmail.com**
-- Portfolio Website: **[https://clupai.com/](https://clupai.com/)**
-- Here's my resume: **[Resume](https://drive.google.com/file/d/1c4itep5wTrMXGW3a2bgLGB1IrZypeUA3/view?usp=sharing)**
-
-<p align="left">
-<a href="https://github.com/Clupai8o0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Clupai8o0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samridh-limbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samridh-limbu" height="30" width="40" /></a>
-<a href="https://fb.com/samridh.limbu.792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samridh.limbu.792" height="30" width="40" /></a>
-<a href="https://instagram.com/clupai8o0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clupai8o0" height="30" width="40" /></a>
-<a href="https://leetcode.com/clupai8o0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="clupai8o0" height="30" width="40" /></a>
-<a href="https://discord.gg/clupai8o0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clupai8o0" height="30" width="40" /></a>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="Samridh Limbu, software engineer in Melbourne. React and TypeScript up front, FastAPI and Postgres behind. The hero of samridhlimbu.com taken apart: the nav bar, the name block with Limbu in blue, the line saying final-year CS at Deakin, graduating June 2027, and the button row for resume, email and GitHub, each lifted off the page." src="./assets/banner-light.svg" width="100%">
+</picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<h4 align="left">Primary (Used day-to-day)</h4>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
+**open to** &nbsp; Summer 2026–27 software engineering internships and graduate roles from mid-2027, in Melbourne.
+
+**now** &nbsp; Contract software engineer at a US health-tech startup, where I cut search latency from seconds to under 200&nbsp;ms. Also CTO of [Hoddle](https://hoddle.org) and president of [DSEC](https://dsec.club).
+
+**links** &nbsp; [resume](https://samridhlimbu.com/resume) · [samridh@samridhlimbu.com](mailto:samridh@samridhlimbu.com) · [samridhlimbu.com](https://samridhlimbu.com)
+
+<br>
+
+<p>
+<a href="https://hoddle.org"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hoddle-dark.svg"><img alt="Hoddle, live at hoddle.org. The student dashboard's Mentors picked for you section, with sample mentors: a verified mentor card with the reasons for the match, a story link and a Follow button, beside two more picks from RMIT and La Trobe. Mentorship platform for international students. I'm CTO and sole developer: 26K+ lines, 51 routes, 23 Postgres tables behind row-level security." src="./assets/hoddle-light.svg" width="100%"></picture></a>
 </p>
 
-<h4 align="left">Secondary (Familiar with and used in projects)</h4>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
+<p>
+<a href="https://govchat-desc.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/govchat-dark.svg"><img alt="GovChat, winner of GovHack 2025, live at govchat-desc.vercel.app. Its Trust panel shows a sample answer scored 92 out of 100, High Trust, broken into five factors from grounding to data recency, for a question like: which datasets track population growth in Victoria? Plain-English answers on Australian government datasets. Next.js, FastAPI, ChromaDB." src="./assets/govchat-light.svg" width="420"></picture></a>
+<a href="https://tempo.clupai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tempo-dark.svg"><img alt="Tempo, live at tempo.clupai.com. Its volume panel on sample data: 140 sets, 1,040 reps and 71,605 kg, with eight lifts ranked by sets in orange bars, and the landing page's sample chat, where Claude answers what was benched last Tuesday and whether it was a record. Claude or ChatGPT can read and log your workouts through an OAuth MCP server. One FastAPI service, 70 API tests." src="./assets/tempo-light.svg" width="420"></picture></a>
 </p>
 
-<h4 align="left">Working Knowledge</h4>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/puppeteer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
+<p>
+<a href="https://github.com/Clupai8o0/cstack"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cstack-dark.svg"><img alt="cstack, a public repo. A terminal runs its review command with a Codex ladder and prints the attempt result: provider codex, ok true. One shared rules, hooks and skills layer for six coding agents. Benchmarked model routing cut cost per task 2.7x at the same score." src="./assets/cstack-light.svg" width="100%"></picture></a>
 </p>
-
-### GitHub Stats
-![Top languages](https://clupai-github-readme-stats.vercel.app/api/top-langs/?username=Clupai8o0&theme=transparent&layout=compact&langs_count=10&card_width=320)
