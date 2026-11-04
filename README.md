@@ -10,6 +10,8 @@ Check out [my site](https://samridhlimbu.com), [LinkedIn](https://www.linkedin.c
 
 ### Products
 
+Built and shipped under [Clupai](https://clupai.com), my studio for products and freelance work.
+
 - **[MonoCode](https://usemono.dev)**: A desktop UI for the coding agents already on your machine
 - **[Tempo](https://tempo.clupai.com)**: Workout tracker that Claude or ChatGPT can read and log to, through an OAuth MCP server
 - **[nomnom](https://nomnom.clupai.com)**: Calorie tracker where you log a meal by sending Claude a photo of it
