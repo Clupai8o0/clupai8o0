@@ -2,7 +2,7 @@
 
 Software engineer in Melbourne. Founder of [Clupai](https://clupai.com). [GovHack 2025](https://github.com/Shalok-sys/GovChat) winner.
 
-Contract engineer at a US health-tech startup, where I cut search latency from seconds to under 200 ms. CTO of [Hoddle](https://hoddle.org) and president of [DSEC](https://dsec.club). Final-year CS at Deakin, graduating mid-2027.
+CTO of [Hoddle](https://hoddle.org) and president of [DSEC](https://dsec.club). Final-year CS at Deakin, graduating mid-2027.
 
 Check out [my site](https://samridhlimbu.com), [LinkedIn](https://www.linkedin.com/in/samridh-limbu), or [my resume](https://samridhlimbu.com/resume)
 
